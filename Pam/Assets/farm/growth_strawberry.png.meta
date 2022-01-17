@@ -1,0 +1,362 @@
+fileFormatVersion: 2
+guid: 5747078ef0be2f14eaa563d18176dbf2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8880016470450139422
+    second: growth_strawberry_0
+  - first:
+      213: -5991058498593866184
+    second: growth_strawberry_1
+  - first:
+      213: 4186834306389924681
+    second: growth_strawberry_2
+  - first:
+      213: -5901985385156095199
+    second: growth_strawberry_3
+  - first:
+      213: -3878597841608054657
+    second: growth_strawberry_4
+  - first:
+      213: -6417133126552258125
+    second: growth_strawberry_5
+  - first:
+      213: -1377754377420886297
+    second: growth_strawberry_6
+  - first:
+      213: 5728340025999061215
+    second: growth_strawberry_7
+  - first:
+      213: 2038313050184354104
+    second: growth_strawberry_8
+  - first:
+      213: 2843720499533865373
+    second: growth_strawberry_9
+  - first:
+      213: 2794230078422110699
+    second: growth_strawberry_10
+  - first:
+      213: 1379116832443664041
+    second: growth_strawberry_11
+  - first:
+      213: 3105739466187941255
+    second: growth_strawberry_12
+  - first:
+      213: 2611292710954345381
+    second: growth_strawberry_13
+  - first:
+      213: 402314663688686454
+    second: growth_strawberry_14
+  - first:
+      213: 3531742940891949316
+    second: growth_strawberry_15
+  - first:
+      213: 401020104743909991
+    second: growth_strawberry_16
+  - first:
+      213: 6371150756779581209
+    second: growth_strawberry_17
+  - first:
+      213: 6799906430574547985
+    second: growth_strawberry_18
+  - first:
+      213: -2829331193475784452
+    second: growth_strawberry_19
+  - first:
+      213: -8269898969162197958
+    second: growth_strawberry_20
+  - first:
+      213: -6591721791908242611
+    second: growth_strawberry_21
+  - first:
+      213: 8502494744904318161
+    second: growth_strawberry_22
+  - first:
+      213: -2803448114735573906
+    second: growth_strawberry_23
+  - first:
+      213: -1224292893771417665
+    second: growth_strawberry_24
+  - first:
+      213: -5400016209981254282
+    second: growth_strawberry_25
+  - first:
+      213: 7473112944345075606
+    second: growth_strawberry_26
+  - first:
+      213: -8792322594528465166
+    second: growth_strawberry_27
+  - first:
+      213: -8783887863022477230
+    second: growth_strawberry_28
+  - first:
+      213: 3698141254420030434
+    second: growth_strawberry_29
+  - first:
+      213: -4435194335250039293
+    second: growth_strawberry_30
+  - first:
+      213: -6808237348440910942
+    second: growth_strawberry_31
+  - first:
+      213: -1157175727289482367
+    second: growth_strawberry_32
+  - first:
+      213: 775729488958262830
+    second: growth_strawberry_33
+  - first:
+      213: -4314079740766214584
+    second: growth_strawberry_34
+  - first:
+      213: 2365804037086337031
+    second: growth_strawberry_35
+  - first:
+      213: 5340547319694630344
+    second: growth_strawberry_36
+  - first:
+      213: 2678840783291544236
+    second: growth_strawberry_37
+  - first:
+      213: -6531551916397739960
+    second: growth_strawberry_38
+  - first:
+      213: 4343817959737906247
+    second: growth_strawberry_39
+  - first:
+      213: 403322273897499614
+    second: growth_strawberry_40
+  - first:
+      213: -6960586389824909639
+    second: growth_strawberry_41
+  - first:
+      213: 4578740664245682618
+    second: growth_strawberry_42
+  - first:
+      213: 968888566487118095
+    second: growth_strawberry_43
+  - first:
+      213: 1068903601827303860
+    second: growth_strawberry_44
+  - first:
+      213: -2218232709895126975
+    second: growth_strawberry_45
+  - first:
+      213: 7495598357471390222
+    second: growth_strawberry_46
+  - first:
+      213: -3822392810596102197
+    second: growth_strawberry_47
+  - first:
+      213: 2859458742357371322
+    second: growth_strawberry_48
+  - first:
+      213: -2972258558215415551
+    second: growth_strawberry_49
+  - first:
+      213: -854218121211872599
+    second: growth_strawberry_0
+  - first:
+      213: 8416059229338240806
+    second: growth_strawberry_1
+  - first:
+      213: -3479502818541354310
+    second: growth_strawberry_2
+  - first:
+      213: 4408152564587977849
+    second: growth_strawberry_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: growth_strawberry_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 12
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aaf67405253524f0800000000000000
+      internalID: -854218121211872599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: growth_strawberry_1
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 0
+        width: 20
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6278a556749dbc470800000000000000
+      internalID: 8416059229338240806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: growth_strawberry_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 34
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab24fd92f9256bfc0800000000000000
+      internalID: -3479502818541354310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: growth_strawberry_3
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 0
+        width: 35
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c5effe667ec2d30800000000000000
+      internalID: 4408152564587977849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - cat
+  - soil
+  - house
+  - fishZone
+  - bound
+  - crops
+  - npc
+  - fish
+  - homePotal
+  - pictureBook
+  - recover
+  - PamPotal
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - soil
+  - NoPassing
+  - npcObject
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: grid
+    uniqueID: 776745977
+    locked: 0
+  - name: player
+    uniqueID: 2389818627
+    locked: 0
+  - name: ui
+    uniqueID: 397424609
+    locked: 0

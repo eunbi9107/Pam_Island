@@ -1,0 +1,281 @@
+fileFormatVersion: 2
+guid: 388d15a346e38e346ad382b5b77ef04c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4439023589839047924
+    second: growth_carrot_0
+  - first:
+      213: 4157464178098543716
+    second: growth_carrot_1
+  - first:
+      213: 1770777183949678169
+    second: growth_carrot_2
+  - first:
+      213: -2362341132871066612
+    second: growth_carrot_3
+  - first:
+      213: 1556039760121791776
+    second: growth_carrot_4
+  - first:
+      213: -7024657125515433054
+    second: growth_carrot_5
+  - first:
+      213: -8691821925811392649
+    second: growth_carrot_6
+  - first:
+      213: 8346526024877774619
+    second: growth_carrot_7
+  - first:
+      213: 9082729156660794642
+    second: growth_carrot_8
+  - first:
+      213: 8461654236249493914
+    second: growth_carrot_9
+  - first:
+      213: -7543113377296500546
+    second: growth_carrot_10
+  - first:
+      213: -4014624041507331057
+    second: growth_carrot_11
+  - first:
+      213: 6071267888748606266
+    second: growth_carrot_12
+  - first:
+      213: -3318179931874704710
+    second: growth_carrot_13
+  - first:
+      213: -497841711719557669
+    second: growth_carrot_14
+  - first:
+      213: 7187865896084759818
+    second: growth_carrot_15
+  - first:
+      213: -2486456583988401949
+    second: growth_carrot_16
+  - first:
+      213: -2966180142584070161
+    second: growth_carrot_17
+  - first:
+      213: 8582423015520375764
+    second: growth_carrot_18
+  - first:
+      213: -3671843025044882007
+    second: growth_carrot_19
+  - first:
+      213: 6588024857995089727
+    second: growth_carrot_20
+  - first:
+      213: -8551908478824039660
+    second: growth_carrot_21
+  - first:
+      213: -5480146462787867423
+    second: growth_carrot_22
+  - first:
+      213: -2195288363175117764
+    second: growth_carrot_0
+  - first:
+      213: -5915496575089521279
+    second: growth_carrot_1
+  - first:
+      213: -4892802843085753729
+    second: growth_carrot_2
+  - first:
+      213: -1238545288135473220
+    second: growth_carrot_3
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: growth_carrot_0
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 0
+        width: 17
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3cf5656dd4c881e0800000000000000
+      internalID: -4439023589839047924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: growth_carrot_1
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 25
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18dcfb3e43fe7eda0800000000000000
+      internalID: 4157464178098543716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: growth_carrot_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 9
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f723ad5ccb5491cb0800000000000000
+      internalID: 1770777183949678169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: growth_carrot_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 19
+        height: 41
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7837e5f9dcfcee0800000000000000
+      internalID: -2362341132871066612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
